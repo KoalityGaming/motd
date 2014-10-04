@@ -229,7 +229,7 @@
 			</p>
 			
 			<p>
-				Likewise any kind of racism or prejudice towards other players is unnacceptable. 
+				Likewise any kind of racism or prejudice towards other players is unacceptable. 
 			</p>
 			
 			
