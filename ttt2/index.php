@@ -28,10 +28,18 @@
 
 					<div class="content">
 						<ol>
-							<li>No spawn camping.</li>
+							<li>No rdming (killing without evidence.)</li>
+							<li>No ghosting.</li>
+							<li>After three live checks you may kill anyone who doesn't respond.</li>
 							<li>Treat other players with respect, if you don't like them ignore them.</li>
-							<li>Don't spam the voice or text chat.</li>
+							<li>Testing is always 100% optional. Detectives and proven innocents can break the tester any time, anyone can break it pre round.</li>
+							<li>No camping for 2 minutes or longer. Or room claiming.</li>
+							<li>Don't intentionally delay the round.</li>
+							<li>Don't follow people, after three warnings you can be killed.</li>
 							<li>No sprays that contain porn, racism, gore, or anything sexually suggestive involving children.</li>
+							<li>Voice and text chat are part of the game, use them. But don't spam them.</li>
+							<li>No trolling with freeze grenades.</li>
+							<li>Don't help the other team win.</li>
 						</ol>
 					</div>
 
